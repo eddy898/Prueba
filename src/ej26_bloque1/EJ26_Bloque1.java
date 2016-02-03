@@ -27,8 +27,6 @@ public class EJ26_Bloque1 {
         
         System.out.println("Prueba de GITHUB");
         
-        System.out.println("Pruebas Comparacion de versiones");
-        
         
         String sexo = "";
         int nMujeres = 1, nHombres = 0;
