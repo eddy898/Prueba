@@ -64,7 +64,6 @@ public class EJ26_Bloque1 {
         
         System.out.println("\t\t\t INFORME ESTATURAS \t\t\t ");
         System.out.println("MEDIA HOMBREs: " + mHombre);
-        System.out.println("MEDIA MUJER: " + mMujeres);
     }
 
 }

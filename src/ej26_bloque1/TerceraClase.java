@@ -9,4 +9,6 @@ package ej26_bloque1;
  *
  * @author Admin
  */
-
+public class TerceraClase {
+    
+}
