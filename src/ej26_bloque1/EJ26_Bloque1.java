@@ -22,14 +22,10 @@ public class EJ26_Bloque1 {
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
         BufferedReader teclado = new BufferedReader(new InputStreamReader(System.in));
+        
         float estatura = 0, estaturaH = 0, estaturaM = 0;
-        String prueba="Git";
-        
-        System.out.println("Prueba de GITHUB");
-        
-        
         String sexo = "";
-        int nMujeres = 1, nHombres = 0;
+        int nMujeres = 0, nHombres = 0;
         float mMujeres, mHombre;
         
         System.out.print("Introduce Sexo: ");
